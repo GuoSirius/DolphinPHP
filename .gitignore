@@ -5,4 +5,5 @@ composer.lock
 /composer.lock
 /.buildpath
 /.project
+/data/install.lock
 *.log
